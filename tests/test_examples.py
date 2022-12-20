@@ -12,7 +12,7 @@ def classcase(name):
 
 class TestExamples(unittest.TestCase):
     '''
-    Test examples' models.  This creates a model object and iterates it through
+    Test examples models.  This creates a model object and iterates it through
     some steps.  The idea is to get code coverage, rather than to test the
     details of each example's model.
     '''
