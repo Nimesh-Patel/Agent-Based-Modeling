@@ -1,4 +1,4 @@
-Mesa: Agent-based modeling in Python 3+
+Mesa: Agent-based modeling in Python version 3+
 =========================================
 
 .. image:: https://api.travis-ci.org/projectmesa/mesa.svg?branch=master
